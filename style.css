@@ -1,0 +1,70 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-color:#EAF4F5;
+}
+
+.avatar{
+    position: absolute;
+    width: 150px;
+    border-radius: 100%;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+h1, h3{
+    margin-top:50px;
+    color: #66BFBF;
+}
+.info{
+    float: left;
+    margin-left: 200px;;
+}
+h3{
+    margin-left: 10px;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+.work{
+    margin-left: 10px;
+}
+td{
+    padding-right: 10px;
+}
+.contact{
+    margin: 20px;;
+}
+.skill{
+    margin-left: 10px;
+}
+.story{
+    text-align: center;
+}
+.form-example{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+textarea {
+    padding: 10px;
+    max-width: 100%;
+    line-height: 1.5;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+.tell{
+    margin-left: 10px;
+}
+.send{
+    margin: 20px;
+}
+
