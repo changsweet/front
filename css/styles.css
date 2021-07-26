@@ -18,15 +18,8 @@ h1 {
     background-color: #ff4c68;
 }
 
-.sonngu {
-    margin-bottom: 100px;
-    text-align: center;
-    font-size: 500%;
-    color: white;
-}
-
 .container-fruid {
-    padding: 3% 15%;
+    padding: 3% 15% 5%;
 }
 
 .navbar {
@@ -63,7 +56,6 @@ h1 {
     text-align: center;
     background-color: white;
     position: relative;
-    z-index: 1;
 }
 
 .features-icon {
@@ -131,4 +123,21 @@ h2 {
 
 .pricing {
     margin-top: 50px;
+}
+
+/********************************* cta section *********************************/
+
+#cta {
+    background-color: #ff4c68;
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#footer {
+    text-align: center;
+}
+
+.cta-text {
+    padding-top: 100px;
 }
