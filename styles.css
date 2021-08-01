@@ -37,3 +37,11 @@ footer {
   text-align: center;
   font-family: 'Indie Flower', cursive;
 }
+
+.btn {
+  position: relative;
+  padding: 10px 40px 10px 40px;
+  margin-top: 50px;
+  margin-left: 45%;
+  font-size: 2rem;
+}
